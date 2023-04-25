@@ -123,6 +123,7 @@ StyleCopReport.xml
 .builds
 *.svclog
 *.scc
+%.idea
 _Chutzpah*
 ipch/
 *.aps
