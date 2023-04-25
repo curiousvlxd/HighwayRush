@@ -1,4 +1,4 @@
-# HighwayDash
+# HighwayRush
  Simple Unity game for my university project.
 
 ## Game Showcase
